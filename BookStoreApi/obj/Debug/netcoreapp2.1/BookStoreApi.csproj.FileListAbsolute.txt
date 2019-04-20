@@ -1,0 +1,15 @@
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\BookStoreApi.deps.json
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.json
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\BookStoreApi.runtimeconfig.dev.json
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\BookStoreApi.pdb
+C:\workfolder\arqdis\book-store\BookStoreApi\bin\Debug\netcoreapp2.1\Api.xml
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.csprojAssemblyReference.cache
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.csproj.CoreCompileInputs.cache
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cache
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorAssemblyInfo.cs
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfoInputs.cache
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.AssemblyInfo.cs
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.RazorTargetAssemblyInfo.cache
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.dll
+C:\workfolder\arqdis\book-store\BookStoreApi\obj\Debug\netcoreapp2.1\BookStoreApi.pdb
